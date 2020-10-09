@@ -56,6 +56,8 @@ count=1
          fi
    fi
 }
+## store in array
+
 function storeInArray() {
 
    for((k=1; k<=count; k++))
